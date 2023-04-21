@@ -7,8 +7,11 @@ Flame264 is a tool that allows artists to export native H.264 files from Autodes
 To install Flame264, clone the repository and run the INSTALL_FLAME264 script:
 
 git clone https://github.com/flamelogik/flame264.git
+
 cd flame264
+
 chmod +x INSTALL_FLAME264
+
 sudo ./INSTALL_FLAME264
 
 Please note that the current version of the INSTALL_FLAME264 script has an absolute link and only installs for Flame 2023.2. You will need to modify the script to work with different versions of Flame, or help me evolve the the .sh script to include all directories within this directory.
