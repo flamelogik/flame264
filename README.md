@@ -20,7 +20,7 @@ Please note that the current version of the INSTALL_FLAME264 script has an absol
 
 # Credits
 
-This project was inspired by the Logik Forum thread "MP4 Export" (https://forum.logik.tv/t/mp4-export/6969/3) and was developed with guidance and support from Bob Mable and Jeff Kyle.
+This project was inspired by the Logik Forum thread "MP4 Export" (https://forum.logik.tv/t/mp4-export/6969/3) and was developed entirely by Bob Maple and Jeff Kyle.  File names and Export Preset descriptions were modified by Randy McEntee.
 
 # Known Limitations
 
