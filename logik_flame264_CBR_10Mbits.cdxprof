@@ -3,7 +3,7 @@
 		<essence name="video">
 		<provider name="libquicktime">
 			<codec name="H264E" longname="H264" type="video" description="Main Concept H264 Codec">
-				<params presetName="Main Assembly CBR 10Mbits">
+				<params presetName="Main Logik CBR 10Mbits">
 	<param name="Target preset" internalname="target_preset" description="" type="enum" value="H264_MAIN" />
  	<param name="Frame-type options" internalname="frame_type" description="" type="section" /> 
  	<param name="GOP size" internalname="idr_interval" description="" type="int" min="1" max="300" value="33" /> 
